@@ -22,9 +22,10 @@ Ask them to paste the notes when that history is needed, and never commit them h
   instead, so it does not join that pull request.
 - New mod-playerbots work goes on `Brytenwally/mod-playerbots` branch `coa-bot-strategies` (bot strategies for CoA
   content), never on `coa`.
-- Bot support for Wildcard, Freepick and Mystic Enchants goes on `Brytenwally/mod-playerbots` branch
-  `wildcard-freepick`. Its `CLAUDE.md` holds the full map of those core systems; read it instead of re-mapping the
-  core, and refresh it only when the core files it lists change.
+- Bot support for Wildcard heroes goes on `Brytenwally/mod-playerbots` branch `wildcard-freepick` (Freepick and
+  Mystic Enchants are out of scope for now). Its `CLAUDE.md` holds the full map of the core's Wildcard system; read
+  it instead of re-mapping the core, and refresh it only when the core files it lists change. Playerbots work never
+  modifies the core: the bots adapt to the core as it is.
 
 ## Module layout
 

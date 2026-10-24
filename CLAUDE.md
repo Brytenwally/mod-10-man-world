@@ -26,6 +26,9 @@ Ask them to paste the notes when that history is needed, and never commit them h
   Mystic Enchants are out of scope for now). Its `CLAUDE.md` holds the full map of the core's Wildcard system; read
   it instead of re-mapping the core, and refresh it only when the core files it lists change. Playerbots work never
   modifies the core: the bots adapt to the core as it is.
+- Bot support for **Freepick Heroes on the Area 52 server** (Legendary Mystic Enchants treated as classes) goes on
+  `Brytenwally/mod-playerbots` branch `area52-freepick`. Its `CLAUDE.md` holds the map of Area 52's Free Pick, builds
+  and Mystic Enchants; read it instead of re-mapping the core.
 
 ## Module layout
 
